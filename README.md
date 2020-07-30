@@ -1,2 +1,2 @@
 # GIS_tools
-Downloading, processing and formatting satellite data (inc. SMAP, ECOSTRESS, Sentinel-X)
+Downloading, processing and formatting satellite data (inc. SMAP, ECOSTRESS)
